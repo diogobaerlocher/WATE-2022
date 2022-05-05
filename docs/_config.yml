@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: WATE-Florida 2022
 description: Workshop in Applied and Theoretical Economics
+github:
+  is_project_page: false
