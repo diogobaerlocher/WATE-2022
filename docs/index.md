@@ -2,7 +2,7 @@ With the goal of providing a forum where Floridian researchers in economics can 
 
 # Call for Papers
 
-[<img alt="USF Bull" width="100%" height="300" src="assets/img/USF_Stock_FJG_0003.jpg" />](https://www.usf.edu/)
+[<img alt="USF Bull" width="100%" height="350" src="assets/img/USF_Stock_FJG_0003.jpg" />](https://www.usf.edu/)
 
 <p align="right"><a href="http://photogallery.usf.edu/netpub/server.np?find&catalog=catalog&template=detail.np&field=itemid&op=matches&value=24357&site=public"> <sub> source </sub></a></p>
 
