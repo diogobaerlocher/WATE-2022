@@ -4,7 +4,7 @@ With the goal of providing a forum where Floridian researchers in economics can 
 
 ## Keynote Speakers
 
-<img alt="Speakers" width="70%" src="assets/img/speakers.png" />
+<img alt="Speakers" width="90%" src="assets/img/speakers.png" />
 
 # Call for Papers
 
