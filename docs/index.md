@@ -20,6 +20,12 @@ WATE-Florida 2022 will be hosted by the University of South Florida in Tampa, FL
 
 _Financial Aid: Unfortunately we do not have funds available to support individuals with the cost of participating in the conference._
 
-**Organizing Committee:** Padmaja Ayyagari, Diogo Baerlocher, and Giulia La Mattina
+**Organizing Committee:** Padmaja Ayyagari (chair), Diogo Baerlocher, and Giulia La Mattina
+
+---
+
+We acknowledge the kind support of:
+
+![researchOne](assets/img/ResearchOne_Green.png)
 
 
