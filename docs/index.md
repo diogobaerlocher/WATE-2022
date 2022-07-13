@@ -26,6 +26,6 @@ _Financial Aid: Unfortunately we do not have funds available to support individu
 
 We acknowledge the kind support of:
 
-![researchOne](assets/img/ResearchOne_Green.png)
-
+<!-- ![researchOne](assets/img/ResearchOne_Green.png) -->
+<img alt="researchOne" width="25%" src="assets/img/ResearchOne_Green.png" />
 
