@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: poole/hyde
+theme: minima
 title: WATE-Florida 2022
 description: Workshop in Applied and Theoretical Economics
 github:
