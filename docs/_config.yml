@@ -7,3 +7,6 @@ description: Workshop in Applied and Theoretical Economics
 sidebar: toc
 github:
   is_project_page: false
+  
+  plugins:
+  - jekyll-remote-theme
