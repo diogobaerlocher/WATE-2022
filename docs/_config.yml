@@ -1,5 +1,9 @@
+markdown: kramdown
+theme: minima
+
 #theme: jekyll-theme-slate
-remote_theme: poole/hyde
+
+#remote_theme: poole/hyde
 title: WATE-Florida 2022
 description: Workshop in Applied and Theoretical Economics
 sidebar: toc
