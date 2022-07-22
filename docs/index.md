@@ -6,7 +6,7 @@ With the goal of providing a forum where Floridian researchers in economics can 
 
 ![Speakers](assets/img/speakers.png)
 
-<!-- <img alt="Speakers" width="100%" src="assets/img/speakers.png" /> -->
+<!-- <img alt="Speakers" width="100%" src="assets/img/speakers_small.png" /> -->
 
 # Call for Papers
 
