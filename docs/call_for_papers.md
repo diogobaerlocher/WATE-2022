@@ -1,3 +1,5 @@
+# Call For Papers
+
 [<img alt="USF Bull" width="80%" height="350" src="assets/img/USF_Stock_FJG_0003.jpg" />](https://www.usf.edu/)
 
 <p align="right"><a href="http://photogallery.usf.edu/netpub/server.np?find&catalog=catalog&template=detail.np&field=itemid&op=matches&value=24357&site=public"> <sub><sub> [credits] </sub></sub></a></p>
