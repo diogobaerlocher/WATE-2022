@@ -1,5 +1,5 @@
 ---
-permalink: /index
+permalink: /call_for_papers
 title: Call For Papers
 ---
 
