@@ -1,4 +1,7 @@
-# Call For Papers
+---
+permalink: /index
+title: Call For Papers
+---
 
 [<img alt="USF Bull" width="80%" height="350" src="assets/img/USF_Stock_FJG_0003.jpg" />](https://www.usf.edu/)
 
