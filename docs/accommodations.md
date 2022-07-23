@@ -1,3 +1,7 @@
-# Travel and Accommodations
+---
+permalink: /accommodations
+title: Travel and Accommodations
+---
 
-_Financial Aid: Unfortunately we do not have funds available to support individuals with the cost of participating in the conference._
+### Participants of the workshop are responsible for all of their own travel expenses and accommodations.
+
