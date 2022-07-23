@@ -3,9 +3,9 @@ permalink: /accommodations
 title: Travel and Accommodations
 ---
 
-### Participants of the workshop are responsible for all of their own travel expenses and accommodations.
+#### Participants of the workshop are responsible for all of their own travel expenses and accommodations.
 
-### Hotel Accommodations
+## Hotel Accommodations
 
 The following hotels have rooms available for workshop participants.
 
