@@ -16,7 +16,7 @@ title: Program
 #### Parallel Sessions - 10:30-12:00pm	
 
 > #### Session 1 at CWY 206
-> - "Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond” **Lealand Morin**, University of Central Florida <br>
+> - "Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond”  <br> **Lealand Morin**, University of Central Florida <br>
 > - “Variable import and export markups, and the pro-competitive gains from trade”<br> **Gunnar Heins**, University of Florida <br>
 > - “Quantitative easing, inflation and real output dynamics”<br> **Sherry Yu**, New College of Florida 
 
@@ -58,5 +58,5 @@ title: Program
 
 #### Coffee Break - 3:30-4:00pm
 
-#### **Keynote Speech** - 4:00-5:00pm at CWY 206
+#### Keynote Speech - 4:00-5:00pm at CWY 206
 > “Robustness in the stochastic frontier model” <br> **William H. Greene**, University of South Florida
