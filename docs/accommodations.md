@@ -18,5 +18,18 @@ The following hotels have rooms available for workshop participants.
     - To reserve a room, please use [this link](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=Tpafa&checkInDate=27&checkInMonthYear=092022&checkOutDate=29&checkOutMonthYear=092022&_PMID=99801505&GPC=WAT&cn=no&viewfullsite=true) or call 813-402-2982 by **September 30, 2022**
     - This is a non-smoking hotel
 
+## Parking
 
+#### PARKING ON CAMPUS
+Parking permits are required to park on campus 24/7. Permits are the property of the University of South Florida. By obtaining a parking permit, the permit holder agrees to become familiar with and abide by the [Parking Rules & Regulations](https://www.usf.edu/administrative-services/parking/regulations/index.aspx).
+
+As a visitor to our campus you can elect to use one of the following:
+
+- [Daily/Visitor Parking](https://www.usf.edu/administrative-services/parking/permits/visitor-daily-permits.aspx#ndvo)
+- [Pay Stations (Timed)](https://www.usf.edu/administrative-services/parking/permits/visitor-daily-permits.aspx#pps)
+- [Metered Parking](https://www.usf.edu/administrative-services/parking/permits/visitor-daily-permits.aspx#me)
+- [Courtesy Permit](https://www.usf.edu/administrative-services/parking/permits/visitor-daily-permits.aspx#fou)
+
+#### WHERE TO PARK?
+Use the [Visitor Parking Map](https://www.usf.edu/administrative-services/parking/documents/visitormap.pdf) to find the visitor parking location nearest to your destination. You can also use USF Maps App to show parking lot locations.
 
