@@ -16,21 +16,21 @@ title: Program
 #### Parallel Sessions - 10:30-12:00pm	
 
 > #### Session 1 at CWY 206
-> - "Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond”  <br> **Lealand Morin**, University of Central Florida <br><br>
-> - “Variable import and export markups, and the pro-competitive gains from trade”<br> **Gunnar Heins**, University of Florida <br><br>
-> - “Quantitative easing, inflation and real output dynamics”<br> **Sherry Yu**, New College of Florida 
+> - "Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond”  <br> **Lealand Morin** (University of Central Florida) <br><br>
+> - “Variable import and export markups, and the pro-competitive gains from trade”<br> Hamid Firooz (University of Rochester), **Gunnar Heins** (University of Florida), and Sankalp Mathur (University of Florida) <br><br>
+> - “Quantitative easing, inflation and real output dynamics”<br> Tarron Khemraj (New College of Florida) and **Sherry Yu** (New College of Florida)
 
 
 > #### Session 2 at CWY 206D
-> - “Changes in the air ambulance market and effects on individual health outcomes” <br> **Melanie Guldi**, University of Central Florida <br><br>
-> - “Firm conduct in the airline industry: Evidence from the 737 Max Grounding” <br> **Anthony Manucci**, Florida State University <br><br>
-> - “Coordinated effects in the American Airlines-U.S. Airways merger” <br> **Douglas C. Turner**, University of Florida 
+> - “Changes in the air ambulance market and effects on individual health outcomes” <br> **Melanie Guldi** (University of Central Florida), Elizabeth Munnich (University of Louisville), and Steven Talbet (University of Central Florida) <br><br>
+> - “Firm conduct in the airline industry: Evidence from the 737 Max Grounding” <br> **Anthony Manucci** (Florida State University) <br><br>
+> - “Coordinated effects in the American Airlines-U.S. Airways merger” <br> **Douglas C. Turner** (University of Florida) 
 
 
 > #### Session 3 at CWY 206E
-> - “She is great but not perfect: Gender gap in online ratings of college professors” <br> **Xi Zhang**, University of Florida <br><br>
-> - “Racial, ethnic, and gender property tax disparities: Evidence from multiple Florida jurisdictions” <br> **Luke Rodgers**, Florida State University <br><br>
-> - “The impact of China shock on occupational employment of high-skilled workers: Evidence from US local labor markets” <br> **Shubhi Agarwal**, University of Florida 
+> - “She is great but not perfect: Gender gap in online ratings of college professors” <br> **Xi Zhang** (University of Florida) <br><br>
+> - “Racial, ethnic, and gender property tax disparities: Evidence from multiple Florida jurisdictions” <br> Keith Ihlanfeldt (Florida State University) and **Luke Rodgers** (Florida State University) <br><br>
+> - “The impact of China shock on occupational employment of high-skilled workers: Evidence from US local labor markets” <br> **Shubhi Agarwal** (University of Florida) 
 
 
 #### Introduction to the <a href="https://www.ctsi.ufl.edu/research/laboratory-services/florida-rdc/" target="_blank" class="btn--research" style="font-size:0.8em"> Florida Research Data Center <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> - 12:00-12:30pm at CWY 206
@@ -42,19 +42,19 @@ title: Program
 #### Parallel Sessions - 2:00-3:30pm
 
 > #### Session 1 at CWY 206
-> - “Time on the market and list prices in ‘hot’ real estate markets” <br> **Eric Schmidbauer**, University of Central Florida  <br><br>
-> - “Increased (platform) competition reduces (seller) competition”  <br> **Shana Cui**, University of Florida  <br><br>
-> - “Strategies of disclosure timing”  <br> **Rivin Perinchery**, Florida State University
+> - “Time on the market and list prices in ‘hot’ real estate markets” <br> **Eric Schmidbauer** (University of Central Florida) and Dmitry Lubensky (Amazon)  <br><br>
+> - “Increased (platform) competition reduces (seller) competition”  <br> **Shana Cui** (University of Florida)  <br><br>
+> - “Strategies of disclosure timing”  <br> **Rivin Perinchery** (Florida State University)
  
 > #### Session 2 at CWY 206D
-> - “Risk perception of COVID-19 and consumption changes in California”  <br> **Dilan Su Alpergin**, University of Florida  <br><br>
-> - “Sentiments and consumer spending: Evidence from Florida”  <br> **Hector Sandoval**, University of Florida <br><br>
-> - “Domination and mutualism: Consumption and conservation of resources in the lab”  <br> **Tom Frye**, Florida State University 
+> - “Risk perception of COVID-19 and consumption changes in California”  <br> **Dilan Su Alpergin** (University of Florida)  <br><br>
+> - “Sentiments and consumer spending: Evidence from Florida”  <br> **Hector Sandoval** (University of Florida) and Anita N. Walsh (University of Florida) <br><br>
+> - “Domination and mutualism: Consumption and conservation of resources in the lab”  <br> **Tom Frye** (Florida State University)
 
 > #### Session 3 at CWY 206E
-> - “A scad-penalized maximum likelihood estimator for the censored regression model”  <br> **Steven Caudill**, Florida Atlantic University  <br><br>
-> - “Analyzing the impact of changes in flood risk on housing value: Evidence from a coastal county”  <br> **Travis LaHue**, Florida State University <br><br>
-> - “Illegal gun bounties and gun violence”  <br> **Brad Davis**, Florida State University <br>
+> - “A scad-penalized maximum likelihood estimator for the censored regression model”  <br> **Steven Caudill** (Florida Atlantic University)  <br><br>
+> - “Analyzing the impact of changes in flood risk on housing value: Evidence from a coastal county”  <br> **Travis LaHue** (Florida State University) <br><br>
+> - “Illegal gun bounties and gun violence”  <br> **Brad Davis** (Florida State University) <br>
 
 #### Coffee Break - 3:30-4:00pm
 
