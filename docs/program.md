@@ -18,7 +18,7 @@ title: Program
 > #### Session 1 at CWY 206
 > - "Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond”  <br> **Lealand Morin** (University of Central Florida) <br><br>
 > - “Variable import and export markups, and the pro-competitive gains from trade”<br> Hamid Firooz (University of Rochester), **Gunnar Heins** (University of Florida), and Sankalp Mathur (University of Florida) <br><br>
-> - “Quantitative easing, inflation and real output dynamics”<br> Tarron Khemraj (New College of Florida) and **Sherry Yu** (New College of Florida)
+> - “Inflation dynamics and quantitative easing”<br> Tarron Khemraj (New College of Florida) and **Sherry Yu** (New College of Florida)
 
 
 > #### Session 2 at CWY 206D
