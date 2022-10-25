@@ -16,21 +16,21 @@ title: Program
 #### Parallel Sessions - 10:30-12:00pm	
 
 > #### Session 1 at CWY 206
-> - "[Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond](../files/papers/session1/1Morin.pdf)”  <br> **Lealand Morin** (University of Central Florida) <br><br>
-> - “[Variable import and export markups, and the pro-competitive gains from trade](../files/papers/session1/2Heins.pdf)”<br> Hamid Firooz (University of Rochester), **Gunnar Heins** (University of Florida), and Sankalp Mathur (University of Florida) <br><br>
-> - “[Inflation dynamics and quantitative easing](../files/papers/session1/3Yu.pdf)”<br> Tarron Khemraj (New College of Florida) and **Sherry Yu** (New College of Florida)
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session1/1Morin.pdf" target="_blank" class="btn--research" style="font-size:0.8em">"Estimating diffusion models of interest rates at the zero lower bound: From the great Depression to the great recession and beyond</a> <br> **Lealand Morin** (University of Central Florida) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session1/2Heins.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Variable import and export markups, and the pro-competitive gains from trade”</a> <br> Hamid Firooz (University of Rochester), **Gunnar Heins** (University of Florida), and Sankalp Mathur (University of Florida) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session1/3Yu.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Inflation dynamics and quantitative easing”</a> <br> Tarron Khemraj (New College of Florida) and **Sherry Yu** (New College of Florida)
 
 
 > #### Session 2 at CWY 206D
-> - “[Changes in the air ambulance market and effects on individual health outcomes](../files/papers/session2/1Guldi.pdf)” <br> **Melanie Guldi** (University of Central Florida), Elizabeth Munnich (University of Louisville), and Steven Talbet (University of Central Florida) <br><br>
-> - “[Firm conduct in the airline industry: Evidence from the 737 Max Grounding](../files/papers/session2/2Manucci.pdf)” <br> **Anthony Manucci** (Florida State University) <br><br>
-> - “[Coordinated effects in the American Airlines-U.S. Airways merger](../files/papers/session2/3Turner.pdf)” <br> **Douglas C. Turner** (University of Florida) 
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session2/1Guldi.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Changes in the air ambulance market and effects on individual health outcomes”</a> <br> **Melanie Guldi** (University of Central Florida), Elizabeth Munnich (University of Louisville), and Steven Talbet (University of Central Florida) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session2/2Manucci.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Firm conduct in the airline industry: Evidence from the 737 Max Grounding”</a> <br> **Anthony Manucci** (Florida State University) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session2/3Turner.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Coordinated effects in the American Airlines-U.S. Airways merger”</a> <br> **Douglas C. Turner** (University of Florida) 
 
 
 > #### Session 3 at CWY 206E
 > - “She is great but not perfect: Gender gap in online ratings of college professors” <br> **Xi Zhang** (University of Florida) <br><br>
-> - “[Racial, ethnic, and gender property tax disparities: Evidence from multiple Florida jurisdictions](../files/papers/session3/2Rodgers.pdf)” <br> Keith Ihlanfeldt (Florida State University) and **Luke Rodgers** (Florida State University) <br><br>
-> - “[The impact of China shock on occupational employment of high-skilled workers: Evidence from US local labor markets](../files/papers/session3/3Agarwal.pdf)” <br> **Shubhi Agarwal** (University of Florida) 
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session3/2Rodgers.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Racial, ethnic, and gender property tax disparities: Evidence from multiple Florida jurisdictions”</a> <br> Keith Ihlanfeldt (Florida State University) and **Luke Rodgers** (Florida State University) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session3/3Agarwal.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“The impact of China shock on occupational employment of high-skilled workers: Evidence from US local labor markets”</a> <br> **Shubhi Agarwal** (University of Florida) 
 
 
 #### Introduction to the <a href="https://www.ctsi.ufl.edu/research/laboratory-services/florida-rdc/" target="_blank" class="btn--research" style="font-size:0.8em"> Florida Research Data Center <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> - 12:00-12:30pm at CWY 206
@@ -42,19 +42,19 @@ title: Program
 #### Parallel Sessions - 2:00-3:30pm
 
 > #### Session 1 at CWY 206
-> - “[Time on the market and list prices in ‘hot’ real estate markets](../files/papers/session4/1Schmidbauer.pdf)” <br> **Eric Schmidbauer** (University of Central Florida) and Dmitry Lubensky (Amazon)  <br><br>
-> - “[Increased (platform) competition reduces (seller) competition](../files/papers/session4/2Cui.pdf)”  <br> **Shana Cui** (University of Florida)  <br><br>
-> - “[Strategies of disclosure timing](../files/papers/session4/3Perinchery.pdf)”  <br> **Rivin Perinchery** (Florida State University)
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session4/1Schmidbauer.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Time on the market and list prices in ‘hot’ real estate markets”</a> <br> **Eric Schmidbauer** (University of Central Florida) and Dmitry Lubensky (Amazon)  <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session4/2Cui.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Increased (platform) competition reduces (seller) competition”</a>  <br> **Shana Cui** (University of Florida)  <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session4/3Perinchery.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Strategies of disclosure timing”</a>  <br> **Rivin Perinchery** (Florida State University)
  
 > #### Session 2 at CWY 206D
 > - “Natural Disasters and Acceptance of Domestic Violence”  <br> Padmaja Ayyagari (University of South Florida), **Giulia La Mattina** (University of South Florida), Lei Lv (University of South Florida) <br><br>
-> - “[Natural disasters support authoritarian populism: Evidence from the Brazilian shrimp vote](../files/papers/session5/2Baerlocher.pdf)”  <br> **Diogo Baerlocher** (University of South Florida), Renata Caldas (University of South Florida), Francisco Cavalcanti (PUC-Rio), and Rodrigo Schneider (Skidmore College) <br><br>
-> - “[Domination and mutualism: Consumption and conservation of resources in the lab](../files/papers/session5/3Frye.pdf)”  <br> **Tom Frye** (Florida State University)
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session5/2Baerlocher.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Natural disasters support authoritarian populism: Evidence from the Brazilian shrimp vote”</a>  <br> **Diogo Baerlocher** (University of South Florida), Renata Caldas (University of South Florida), Francisco Cavalcanti (PUC-Rio), and Rodrigo Schneider (Skidmore College) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session5/3Frye.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Domination and mutualism: Consumption and conservation of resources in the lab”</a>  <br> **Tom Frye** (Florida State University)
 
 > #### Session 3 at CWY 206E
 > - “Local Segregation in Neighborhood Amenities”  <br> **Kenneth Whaley** (University of South Florida)  <br><br>
-> - “[Analyzing the impact of changes in flood risk on housing value: Evidence from a coastal county](../files/papers/session6/2LaHue.pdf)”  <br> **Travis LaHue** (Florida State University) <br><br>
-> - “[Illegal gun bounties and gun violence](../files/papers/session6/3Davis.pdf)”  <br> **Brad Davis** (Florida State University) <br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session6/2LaHue.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Analyzing the impact of changes in flood risk on housing value: Evidence from a coastal county”</a>  <br> **Travis LaHue** (Florida State University) <br><br>
+> - <a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/papers/session6/3Davis.pdf" target="_blank" class="btn--research" style="font-size:0.8em">“Illegal gun bounties and gun violence”</a>  <br> **Brad Davis** (Florida State University) <br>
 
 #### Coffee Break - 3:30-4:00pm
 
