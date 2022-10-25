@@ -47,7 +47,7 @@ title: Program
 > - “[Strategies of disclosure timing](../files/papers/session4/3Perinchery.pdf)”  <br> **Rivin Perinchery** (Florida State University)
  
 > #### Session 2 at CWY 206D
-> - “[Risk perception of COVID-19 and consumption changes in California](../files/papers/session5/1Alpergin.pdf)”  <br> **Dilan Su Alpergin** (University of Florida)  <br><br>
+> - “Natural Disasters and Acceptance of Domestic Violence”  <br> Padmaja Ayyagari (University of South Florida), **Giulia La Mattina** (University of South Florida), Lei Lv (University of South Florida) <br><br>
 > - “[Natural disasters support authoritarian populism: Evidence from the Brazilian shrimp vote](../files/papers/session5/2Baerlocher.pdf)”  <br> **Diogo Baerlocher** (University of South Florida), Renata Caldas (University of South Florida), Francisco Cavalcanti (PUC-Rio), and Rodrigo Schneider (Skidmore College) <br><br>
 > - “[Domination and mutualism: Consumption and conservation of resources in the lab](../files/papers/session5/3Frye.pdf)”  <br> **Tom Frye** (Florida State University)
 
