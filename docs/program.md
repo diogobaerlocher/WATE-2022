@@ -3,7 +3,7 @@ permalink: /program
 title: Program
 ---
 
-<a href="https://github.com/diogobaerlocher/WATE-2022/blob/main/files/WATE_Program.pdf" target="_blank" class="btn--research" style="font-size:0.8em">Download Program <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="https://usf.app.box.com/s/03aoannpyt2i85adfecyathpf2apyp98" target="_blank" class="btn--research" style="font-size:0.8em">Download Program <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 #### Welcome - 8:50-9:00am at CWY 206
 > **Dean Magali Michael**, USF College of Arts and Sciences
